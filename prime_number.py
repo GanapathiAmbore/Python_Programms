@@ -1,13 +1,10 @@
 def prime(x):
-    if x==2:
-        return "prime"
+    if x==1:
+        return "NOt a prime number"
+    elif x==2:
+        return "prime number"
     else:
         for i in range(2,x):
-            if i%x==0:
-                return "prime number"
-            else:
-                return "not prime"
-
-print(prime(10))
-print(prime(2))
+            if x%i==0:
+                return "Not a prime number"
 print(prime(21))
