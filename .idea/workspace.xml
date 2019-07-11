@@ -9,33 +9,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae94903f-1585-4cf6-9d51-82692651e1ab" name="Default Changelist" comment="&quot;Python Programms&quot;">
-      <change afterPath="$PROJECT_DIR$/DB _connectivity/python_with_mongodb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/Pan_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/Vehicle_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/find_all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/find_iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/full_match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/mobile_number_validations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/password_validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/pincode_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/sub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/except_handling/E-mail_sending_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/except_handling/basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_in_python/adding Rows and coloumns in excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_in_python/basic_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_in_python/csv_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_in_python/excel_sheet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_in_python/file to store numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_in_python/json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_in_python/json_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_in_python/python_programm to store tables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_in_python/read_mode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_in_python/xlrd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/inner_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webscrapping_python/scrapethepage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -467,7 +440,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925262" visible="true" weight="0.24960877" />
       <window_info id="Structure" order="1" sideWeight="0.5007474" side_tool="true" weight="0.24960877" />
@@ -475,13 +447,13 @@
       <window_info id="aws.explorer" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884902" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37070253" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37070253" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884902" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.49925262" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.49925262" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3064275" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
